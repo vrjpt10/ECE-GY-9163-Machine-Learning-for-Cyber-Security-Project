@@ -56,6 +56,8 @@ To generate everything from scratch, run each cell of .ipynb file which will tra
 # Results
 
 Sample outputs have been provided in the output directory.
+AB-5.mp4 is Sufi to bhajan
+Ab-6.mp4 is Semi classical to bhajan
 
 
 
