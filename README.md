@@ -1,4 +1,4 @@
-# gan-based-music-genre-transfer
+# GAN-Based-Music-Genre-Transfer
 A GAN based music genre transfer for variable length songs.
 
 # Abstract
